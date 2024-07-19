@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-venkat03&show_icons=true&theme=transparent)
-[![Venkat's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iam-venkat03)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-venkat03&size_weight=0.5&count_weight=0.5)
