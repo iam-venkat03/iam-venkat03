@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **iam-venkat03/iam-venkat03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,10 +16,8 @@ Here are some ideas to get you started:
 ![Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-venkat03&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-venkat03&hide_progress=true)
 
---!>
 
 ### Hi there 👋, I am Venkatesha Prasad Sridar!
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am Computer Science Graduate Student at University of Texas at Arlington. My specializations include Database and Intelligent Systems. 
 
