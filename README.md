@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 ![Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-venkat03&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-venkat03&hide_progress=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iam-venkat03&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
