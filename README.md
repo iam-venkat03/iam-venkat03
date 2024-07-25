@@ -21,11 +21,10 @@ ___
 
 ## Current Projects / work :
 
-- I'm currently working on Danny's 8 week SQL program, Gym Buddy System Project.
+- I'm currently working on Danny's 8 week SQL program, Twitter Airflow Project.
   
-- I’m currently learning about Apache Airflow, PySpark and Data Modelling. 
+- I’m currently learning about Apache Airflow, PySpark and Data Modeling. 
 
-![Venkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-venkat03&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-venkat03&hide_progress=true)
 
